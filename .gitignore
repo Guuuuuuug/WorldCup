@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+venv/
+.env
+backend/.env
+frontend/.env
+backend/.gitignore
+frontend/.gitignore
+
+# Node (React frontend)
+node_modules/
+build/
+dist/
+
+# System files
+.DS_Store
+*.log
